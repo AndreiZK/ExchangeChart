@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
+#app {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column-reverse;  
+  justify-content: center;
+  align-items: center;
+}
+
+/* .menu-container {
+  position: fixed;
+  top: 50px;
+  left: 50px;
+} */
